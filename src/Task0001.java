@@ -28,5 +28,12 @@ public class Task0001 {
         System.out.println("Сумма чисел до " + max + " и кратные " + multiple1 + " и " + multiple2 +
                 " равна: " + summa);
     }
+
+    public static String WhoTheBestProgrammer()
+    {
+    
+         return "Yuriy Antipenko :)";
+    
+    }
 }
 
